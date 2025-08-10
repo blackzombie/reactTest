@@ -1,4 +1,3 @@
-import React from "react";
 import { Redirect, Route, Switch } from "react-router-dom";
 import styles from "./App.module.css";
 import Menu from "./pages/menu/Menu";
